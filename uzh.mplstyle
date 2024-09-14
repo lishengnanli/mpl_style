@@ -23,7 +23,7 @@ legend.fontsize   : 15
 xtick.labelsize   : 12
 ytick.labelsize   : 12
 
-axes.prop_cycle : cycler('color',['0028a5', 'bf0d3e', 'fc4c02', 'a5d233', 'ffc845', '4ac9e3', '3062ff', 'f3537f', 'c8e485', 'ffde8f', '92dfee', 'd7d7d7', 'dbf4f9', 'fbc6d4', 'fff4da', 'ffdbcc', 'ecf6d6', 'c2c2c2', 'fafafa', 'e0e0e0', '7596ff', 'feb799', 'dbedad', 'ffe9b5', 'b7e9f4', 'f78caa', 'a3a3a3', 'efefef', '3062ff', 'fe9367', 'c8e485', 'ffde8f', '92dfee', 'f3537f', '666666', 'e7e7e7', '001e7c', 'bd3902', '7ca023', 'f3ab00', '1ea7c4', '8f0a2e', '4d4d4d', 'a3a3a3', '001452', '7e2601', '536b18', 'a27200', '147082', '60061f', '333333', 'bacbff']  
+axes.prop_cycle : cycler('color',['0028a5', 'bf0d3e', 'a4d233', 'ffc845', '4ac9e3', 'fc4c02', '7596ff', '78caa', 'dbedad', 'ffe9b5', 'b7e9f4', 'feb799', 'bacbff', 'a3a3a3', 'c2c2c2'])  
 ### Saving figures
 savefig.facecolor : ffffff
 savefig.bbox      : tight

@@ -2,7 +2,8 @@
 # Universität Zürich
 #
 # Author: Benjamin Kraner
-# Date: September 2022
+# Revised by: Tao Yan, Shengnan Li
+# Date: September 2024
 
 ### Text
 text.usetex		  : False

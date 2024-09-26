@@ -1,0 +1,31 @@
+# Stylesheet for matplotlib - uzh
+# Universität Zürich
+#
+# Author: Benjamin Kraner
+# Revised by: Tao Yan, Shengnan Li
+# Date: September 2024
+
+### Text
+text.usetex		  : False
+font.size 		  : 12
+font.family 	  : sans-serif
+font.sans-serif : Source Sans Pro
+font.weight     : 500
+  
+### Axes
+axes.linewidth : 1.2
+axes.labelsize : 16
+
+### Legend
+legend.fontsize   : 15
+
+### Ticks
+xtick.labelsize   : 12
+ytick.labelsize   : 12
+
+axes.prop_cycle : cycler('color',['0028a5', 'bf0d3e', 'a4d233', 'ffc845', '4ac9e3', 'fc4c02', '7596ff', 'f78caa', 'dbedad', 'ffe9b5', 'b7e9f4', 'a3a3a3'])  
+### Saving figures
+savefig.facecolor : ffffff
+savefig.bbox      : tight
+###
+figure.dpi : 300
